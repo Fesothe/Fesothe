@@ -1,4 +1,7 @@
-### Hi there 👋
+### Velivian Fesothe
+I'm A Fustachioed Furbrained Oddity!
+
+I'm the CEO of FurShows(startup) and other organisations I'm setting up, and I am developing code, micros, and programs to support them.
 
 <!--
 **Fesothe/Fesothe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
