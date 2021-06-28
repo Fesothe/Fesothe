@@ -4,6 +4,8 @@ I'm A Fustachioed Furbrained Oddity!
 <p>I'm the CEO of FurShows(startup) and other organisations I'm setting up,</p>
 <p>and I'm developing code, micros, and programs to support them.</p>
 
+Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://fesothe.crypto">Crypto</a>
+
 <!--
 **Fesothe/Fesothe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
