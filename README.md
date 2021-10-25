@@ -7,10 +7,10 @@ I'm A Fustachioed Furbrained Oddity!
 Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://ko-fi.com/fesothe">KoFi</a> <a href="https://my.secondlife.com/steampunk.gears">L$'s</a> <a href="https://fesothe.crypto">Crypto</a> <a href="https://www.patreon.com/Fesothe">Patreon</a>
 
 
-Organisations:
+<h1>Organisations:</h1>
 
-<h1>FurShows</h1>
-<h2>FurShows is a cultural archive and soon to be streaming service.</h2>
+<h2>FurShows</h2>
+<h3>FurShows is a cultural archive and soon to be streaming service.</h3>
 <a href="https://github.com/FurShows">
   <img src="https://avatars.githubusercontent.com/u/80177700?s=400&u=4a3e0340bac47b042986c2bcad06850cc26f9f7d&v=4" alt="FurShows Logo" style="width:40px;height:40px;">
 </a>
