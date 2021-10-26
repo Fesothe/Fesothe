@@ -17,6 +17,14 @@ Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://ko-fi.co
 
 &nbsp;
 
+* <b><a href="https://github.com/Fesothe3D">Fesothe 3D</b></a> - <b>Opensource code for products and projects of the 3d store of Velivian Fesothe.</b>
+
+<a href="https://github.com/Fesothe3D">
+  <img src="https://avatars.githubusercontent.com/u/61714751?s=200&v=4" alt="Stream Circus Logo" style="width:40px;height:40px;">
+</a>
+
+&nbsp;
+
 * <b><a href="https://github.com/FurShows">FurShows</a></b> - <b>FurShows is a cultural archive and soon to be streaming service.</b>
 
 <a href="https://github.com/FurShows">
