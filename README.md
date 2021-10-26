@@ -1,5 +1,5 @@
 ### Velivian Fesothe
-I'm A Fustachioed Furbrained Oddity!
+<b>I'm A Fustachioed Furbrained Oddity!</b>
 
 <p>I'm the CEO of FurShows(startup) and other organisations I'm setting up,</p>
 <p>and I'm developing code, micros, and programs to support them.</p>
