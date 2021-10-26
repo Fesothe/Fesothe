@@ -4,7 +4,7 @@ I'm A Fustachioed Furbrained Oddity!
 <p>I'm the CEO of FurShows(startup) and other organisations I'm setting up,</p>
 <p>and I'm developing code, micros, and programs to support them.</p>
 
-Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://ko-fi.com/fesothe">KoFi</a> <a href="https://my.secondlife.com/steampunk.gears">L$'s</a> <a href="https://fesothe.crypto">Crypto</a> <a href="https://www.patreon.com/Fesothe">Patreon</a>
+Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://ko-fi.com/fesothe">KoFi</a> <a href="https://my.secondlife.com/steampunk.gears">L$'s</a> <a href="https://fesothe.crypto">Crypto</a> <a href="https://www.patreon.com/Fesothe">Patreon</a> <a href="https://wishlist.fesothe.com/">Wishlist</a>
 
 
 <h1>Organisations:</h1>
