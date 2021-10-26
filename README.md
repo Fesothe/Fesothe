@@ -13,7 +13,8 @@ Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://ko-fi.co
 
 <a href="https://github.com/Fesothes">
   <img src="https://avatars.githubusercontent.com/u/86520759?s=400&u=0f94ffb083162606c134d012d24bb21ec6da104f&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
-</a> 
+</a>
+
 &nbsp;
 
 * <b><a href="https://github.com/FurShows">FurShows</a></b> - <b>FurShows is a cultural archive and soon to be streaming service.</b>
