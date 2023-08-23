@@ -33,7 +33,7 @@ Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://ko-fi.co
 
 &nbsp;
 
-* <b><a href="https://github.com/StreamCircus">Stream Circus</b></a> - <b>The code, micros, and programs for the live stream of Fesothe.</b>
+* <b><a href="https://github.com/StreamCircus">Stream Circus</b></a> - <b>The code, micros, and programs for the live stream of Furtainment.</b>
 
 <a href="https://github.com/StreamCircus">
   <img src="https://avatars.githubusercontent.com/u/86520759?s=400&u=0f94ffb083162606c134d012d24bb21ec6da104f&v=4" alt="Stream Circus Logo" style="width:40px;height:40px;">
