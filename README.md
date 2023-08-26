@@ -12,7 +12,7 @@ Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://ko-fi.co
 * <b><a href="https://github.com/Furtainment">Furtainment</a></b> - <b>Furtainment is my entertainment business.</b>
 
 <a href="https://github.com/Furtainment">
-  <img src="https://avatars.githubusercontent.com/u/86520759?s=400&u=0f94ffb083162606c134d012d24bb21ec6da104f&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
+  <img src="https://avatars.githubusercontent.com/u/13406567?s=200&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
 </a>
 
 &nbsp;
