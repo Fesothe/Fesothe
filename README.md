@@ -9,7 +9,7 @@ Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://ko-fi.co
 
 <h1>Organisations:</h1>
 
-* <b><a href="https://github.com/Furtainment">Furtainment</a></b> - <b>Furtainment is my entertainment business.</b>
+* <b><a href="https://github.com/Furtainment">Furtainment</a></b> - <b> is my entertainment business.</b>
 
 <a href="https://github.com/Furtainment">
   <img src="https://avatars.githubusercontent.com/u/13406567?s=200&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
@@ -17,7 +17,7 @@ Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://ko-fi.co
 
 &nbsp;
 
-* <b><a href="https://github.com/Fesothes">Fesothes</a></b> - <b>Fesothes is my online shop.</b>
+* <b><a href="https://github.com/Fesothes">Fesothes</a></b> - <b> is my online shop.</b>
 
 <a href="https://github.com/Fesothes">
   <img src="https://avatars.githubusercontent.com/u/86520759?s=400&u=0f94ffb083162606c134d012d24bb21ec6da104f&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
@@ -33,7 +33,7 @@ Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://ko-fi.co
 
 &nbsp;
 
-* <b><a href="https://github.com/FurShows">FurShows</a></b> - <b>FurShows is a cultural archive and soon to be streaming service.</b>
+* <b><a href="https://github.com/FurShows">FurShows</a></b> - <b> is a cultural archive and soon to be streaming service.</b>
 
 <a href="https://github.com/FurShows">
   <img src="https://avatars.githubusercontent.com/u/80177700?s=400&u=4a3e0340bac47b042986c2bcad06850cc26f9f7d&v=4" alt="FurShows Logo" style="width:40px;height:40px;">
