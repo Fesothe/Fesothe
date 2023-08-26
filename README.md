@@ -1,8 +1,7 @@
 ### Velivian Fesothe
 <b>I'm A Fustachioed Furbrained Oddity!</b>
 
-<p>I'm the CEO of Furtainment(startup) and other subsidiary organisations I'm setting up,</p>
-<p>and I'm developing code, micros, and programs to support them.</p>
+<p>I'm the CEO of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing code, micros, and programs to support them.</p>
 
 Donate: <a href="https://paypal.me/fesothe">PayPal</a> <a href="https://ko-fi.com/fesothe">KoFi</a> <a href="https://my.secondlife.com/steampunk.gears">L$'s</a> <a href="https://fesothe.crypto">Crypto</a> <a href="https://www.patreon.com/Fesothe">Patreon</a> <a href="https://wishlist.fesothe.com/">Wishlist</a>
 
