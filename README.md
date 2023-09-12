@@ -4,6 +4,7 @@
 <ul>
   <li>🚧 I’m currently working on website templates</li>
   <li>☕How to reach me: Tweet to <a href="https://twitter.com/intent/tweet?screen_name=Fesothe&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">@Fesothe</a></li>
+  <li>💼Connect with me: On LinkedIn <a href="https://www.linkedin.com/in/velivian-fesothe/">linkedin.com/in/velivian-fesothe/</a></li>
 </ul>
 
 
