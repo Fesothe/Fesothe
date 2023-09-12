@@ -20,7 +20,7 @@
 * <b><a href="https://github.com/Furbrained">Furbrained</a></b> - <b> is where I publish personal projects.</b>
 
 <a href="https://github.com/Furbrained">
-  <img src="https://avatars.githubusercontent.com/u/13406567?s=200&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
+  <img src="https://avatars.githubusercontent.com/u/42522398?s=64&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
 </a>
 
 </br>
