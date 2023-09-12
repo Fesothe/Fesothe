@@ -19,7 +19,7 @@ Donate: <a href="https://paypal.me/fesothe">PayPal</a> | <a href="https://ko-fi.
 </a>
 
 <b>Blog</b>
-  
+<hr>
 Check out my latest blog posts.
 
 <ul>
