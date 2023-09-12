@@ -18,8 +18,10 @@ Donate: <a href="https://paypal.me/fesothe">PayPal</a> | <a href="https://ko-fi.
   <img src="https://avatars.githubusercontent.com/u/13406567?s=200&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
 </a>
 
-<b>Blog</b>
 <hr style="border: none; border-top: 1px solid grey;">
+
+<b>Blog</b>
+
 Check out my latest blog posts.
 
 <ul>
