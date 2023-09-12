@@ -17,3 +17,12 @@ Donate: <a href="https://paypal.me/fesothe">PayPal</a> | <a href="https://ko-fi.
 <a href="https://github.com/Furtainment">
   <img src="https://avatars.githubusercontent.com/u/13406567?s=200&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
 </a>
+
+<h2>Blog<h2>
+
+Check out my latest blog posts.
+
+<ul>
+  <li><a href="https://www.kewllab.com/2023/01/designing-a-3d-printed-stage-for-furshows.html">KewlLab - Designing A 3D Printed Stage for FurShows</a> - January 25, 2023</li>
+  <li><a href="https://www.kewllab.com/2023/02/purchasing-parts-for-robotics.html">KewlLab - Purchasing Parts for Animatronics & Robotics at FurShows</a> - February 20, 2023</li>
+</ul>
