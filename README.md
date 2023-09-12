@@ -3,10 +3,10 @@
 
 <ul>
   <li>🚧 I’m currently working on website templates</li>
-  <li>☕How to reach me: <a href="https://x.com/fesothe">x.com/fesothe</a></li>
+  <li>☕How to reach me: <a href="https://twitter.com/intent/tweet?screen_name=Fesothe&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @Fesothe</a></li>
 </ul>
 
-<a href="https://twitter.com/intent/tweet?screen_name=Fesothe&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @Fesothe</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 <p>I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing code, micros, games and programs to support them.</p>
 
