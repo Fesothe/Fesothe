@@ -25,7 +25,7 @@
   <img src="https://avatars.githubusercontent.com/u/42522398?s=64&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
 </a>
 
-* <b>Social: <a href="https://twitter.com/Fesothe">Twitter</a> | <a href="https://bsky.app/profile/fesothe.com">Bsky</a> | <a href="https://www.threads.net/@velivian.fesothe">Threads</a> | </b>
+* <b>Social: <a href="https://x.com/Fesothe">X</a> | <a href="https://bsky.app/profile/fesothe.com">Bsky</a> | <a href="https://www.threads.net/@velivian.fesothe">Threads</a> | </b>
 
 <hr style="border: none; border-top: 1px solid grey;">
 
