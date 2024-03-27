@@ -6,7 +6,7 @@
 ![Fesothe Header Logo.](https://cdn.furrys.org/github/fesothe/images/fesothe-header-1500x500.jpeg)
 
 <!-- [START BADGES] -->
-&nbsp;&nbsp;
+&nbsp;
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/velivian-fesothe/">
   <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-8b0000?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
