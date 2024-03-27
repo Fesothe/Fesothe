@@ -1,17 +1,42 @@
-### Velivian Fesothe
-<b>I'm A Fustachioed Furbrained Oddity!</b>
+<h1><p align="center">Velivian Fesothe</p></h1>
+<h3><p align="center">
+  <b>I'm A Fustachioed Furbrained Oddity!</b>
+</p></h3></br>
 
 ![Fesothe Header Logo.](https://cdn.furrys.org/github/fesothe/images/fesothe-header-1500x500.jpeg)
+
+<!-- [START BADGES] -->
+&nbsp;&nbsp;
+<p align="center" dir="auto">
+  <a href="https://www.linkedin.com/in/velivian-fesothe/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-8b0000?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/velivian.fesothe/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/instagram-8b0000?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Fesothe">
+  <img alt="Static Badge" src="https://img.shields.io/badge/youtube-8b0000?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://sketchfab.com/fesothe/collections">
+  <img alt="Static Badge" src="https://img.shields.io/badge/sketchfab-8b0000?&amp;style=for-the-badge&amp;logo=sketchfab&amp;logoColor=white"></a>
+  &nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/Fesothe">
+  <img alt="Static Badge" src="https://img.shields.io/badge/steam-8b0000?&amp;style=for-the-badge&amp;logo=steam&amp;logoColor=white"></a>
+</p>
+
+<!-- [END BADGES] -->
+
+<h3><p align="center">
+  I'm currently a developer at <a href="https://github.com/SnackFerret">SnackFerret Studio</a>
+</p></h3>
+
+<p>And I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing code, micros, games and programs to support them.</p>
 
 <ul>
   <li>🚧 I’m currently working on website templates</li>
   <li>☕ How to reach me: Tweet to <a href="https://twitter.com/intent/tweet?screen_name=Fesothe&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">@Fesothe</a></li>
   <li>💼 Connect with me: On LinkedIn <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=velivian-fesothe">@Velivian-Fesothe</a></li>
 </ul>
-
-
-
-<p>I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing code, micros, games and programs to support them.</p>
 
 * <b><a href="https://github.com/Furtainment">Furtainment</a></b> - <b> is my entertainment business.</b>
 
@@ -24,6 +49,9 @@
 <a href="https://github.com/Furbrained">
   <img src="https://avatars.githubusercontent.com/u/42522398?s=64&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
 </a>
+
+
+<b>Connect with me:</b>
 
 * <b>Social: <a href="https://x.com/Fesothe">X</a> | <a href="https://bsky.app/profile/fesothe.com">Bsky</a> | <a href="https://www.threads.net/@velivian.fesothe">Threads</a> | </b>
 
