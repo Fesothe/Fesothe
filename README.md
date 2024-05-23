@@ -41,7 +41,7 @@
   <li>💼 Connect with me: On LinkedIn <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=velivian-fesothe">@Velivian-Fesothe</a></li>
 </ul>
 
-<p align="center" dir="auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=fesothe&theme=transparent" alt="GitHub Streak" /></p>
+<p align="center" dir="auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=fesothe&theme=transparent&card_width=1000" alt="GitHub Streak" /></p>
 
 <p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesothe&layout=compact&theme=transparent&count_private=true" alt="GitHub Streak" /></p>                                     
 
