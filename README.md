@@ -25,16 +25,16 @@
 </p>
 &nbsp;
 <!-- [END BADGES] -->
-&nbsp;
-<p align="center" dir="auto">
-<img src="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true&theme=transparent" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fesothe&theme=transparent" alt="GitHub Streak" /></p>
 
 <h3><p align="center">
   I'm currently a developer at <a href="https://github.com/SnackFerret">SnackFerret Studio</a>
 </p></h3>
 
 <p>And I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing code, micros, games and programs to support them.</p>
+
+<p align="center" dir="auto">
+<img src="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true&theme=transparent" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fesothe&theme=transparent" alt="GitHub Streak" /></p>
   
 <ul>
   <li>🚧 I’m currently working on website templates</li>
