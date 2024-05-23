@@ -5,8 +5,11 @@
 
 ![Fesothe Header Logo.](https://cdn.furrys.org/github/fesothe/images/fesothe-header-1500x500.jpeg)
 
+<h3><p align="center">
+  I'm currently a developer at <a href="https://github.com/SnackFerret">SnackFerret Studio</a>
+</p></h3>
+
 <!-- [START BADGES] -->
-&nbsp;
 <p align="center" dir="auto">
   <a href="https://www.linkedin.com/in/velivian-fesothe/">
   <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-8b0000?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a>
@@ -25,10 +28,6 @@
 </p>
 &nbsp;
 <!-- [END BADGES] -->
-
-<h3><p align="center">
-  I'm currently a developer at <a href="https://github.com/SnackFerret">SnackFerret Studio</a>
-</p></h3>
 
 <p>And I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing code, micros, games and programs to support them.</p>
 
