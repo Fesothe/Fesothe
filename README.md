@@ -29,11 +29,11 @@
 <p align="center" dir="auto">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=fesothe"
     media="(prefers-color-scheme: transparent)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true"
     media="(prefers-color-scheme: transparent), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true" />
