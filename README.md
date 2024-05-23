@@ -5,6 +5,10 @@
 
 ![Fesothe Header Logo.](https://cdn.furrys.org/github/fesothe/images/fesothe-header-1500x500.jpeg)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesothe)](https://fesothe.com) [![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fesothe&theme=dark)](https://fesothe.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesothe&layout=compact&theme=dark&count_private=true)]([https://ruisiang.xyz](https://fesothe.com))
+
 <!-- [START BADGES] -->
 &nbsp;
 <p align="center" dir="auto">
