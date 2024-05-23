@@ -33,7 +33,7 @@
 <p>And I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing code, micros, games and programs to support them.</p>
 
 <p align="center" dir="auto">
-<img src="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true&theme=transparent&card_width=1000px" alt="GitHub Stats" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=8b0000&card_width=1000px" alt="GitHub Stats" /></p>
   
 <ul>
   <li>🚧 I’m currently working on website templates</li>
