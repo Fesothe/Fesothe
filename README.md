@@ -27,18 +27,8 @@
 <!-- [END BADGES] -->
 &nbsp;
 <p align="center" dir="auto">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fesothe"
-    media="(prefers-color-scheme: transparent)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true"
-    media="(prefers-color-scheme: transparent), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true" />
-</picture>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=fesothe&theme=transparent" alt="GitHub Streak" /></a></p>
+<img src="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true&theme=transparent" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fesothe&theme=transparent" alt="GitHub Streak" /></p>
 
 <h3><p align="center">
   I'm currently a developer at <a href="https://github.com/SnackFerret">SnackFerret Studio</a>
