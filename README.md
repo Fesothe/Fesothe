@@ -3,7 +3,7 @@
   <b>I'm A Fustachioed Furbrained Oddity!</b>
 </p></h3></br>
 
-![Fesothe Header Logo.](https://cdn.furrys.org/github/fesothe/images/fesothe-header-1500x500.jpeg)
+![Fesothe Header Logo.](https://cdn.furrys.org/github/fesothe/images/fesothe_1500x410.png)
 
 <h3><p align="center">
   I'm currently a developer at <a href="https://github.com/SnackFerret">SnackFerret Studio</a>
