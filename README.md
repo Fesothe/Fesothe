@@ -7,7 +7,7 @@
 
 <h3><p align="center">
   I'm currently a developer at <a href="https://github.com/SnackFerret">SnackFerret Studio</a>
-</p></h3>
+</p></h3>&nbsp;
 
 <!-- [START BADGES] -->
 <p align="center" dir="auto">
