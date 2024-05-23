@@ -33,16 +33,17 @@
 <p>And I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing code, micros, games and programs to support them.</p>
 
 <p align="center" dir="auto">
-<img src="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true&theme=transparent" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=fesothe&theme=transparent" alt="GitHub Streak" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true&theme=transparent" alt="GitHub Stats" /></p>
   
 <ul>
   <li>🚧 I’m currently working on website templates</li>
   <li>☕ How to reach me: Tweet to <a href="https://twitter.com/intent/tweet?screen_name=Fesothe&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">@Fesothe</a></li>
   <li>💼 Connect with me: On LinkedIn <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=velivian-fesothe">@Velivian-Fesothe</a></li>
 </ul>
-                                       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesothe&layout=compact&theme=transparent&count_private=true)]([https://ruisiang.xyz](https://fesothe.com))
+
+<p align="center" dir="auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=fesothe&theme=transparent" alt="GitHub Streak" /></p>
+
+<p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesothe&layout=compact&theme=transparent&count_private=true" alt="GitHub Streak" /></p>                                     
 
 * <b><a href="https://github.com/Furtainment">Furtainment</a></b> - <b> is my entertainment business.</b>
 
