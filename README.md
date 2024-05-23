@@ -40,7 +40,7 @@
 <p align="center" dir="auto">
 <img src="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=8b0000&card_width=1000px" alt="GitHub Stats" /></p>
 
-<p align="center" dir="auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=fesothe&theme=transparent&card_width=1000" alt="GitHub Streak" /></p>
+<p align="center" dir="auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=fesothe&theme=transparent&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000&card_height=250" alt="GitHub Streak" /></p>
 
 <p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesothe&layout=compact&theme=transparent&count_private=true" alt="GitHub Streak" /></p>                                     
 
