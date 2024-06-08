@@ -73,7 +73,7 @@
 
 <b>Connect with me:</b>
 
-* <b>Social: <a href="https://x.com/Fesothe">X</a> | <a href="https://bsky.app/profile/fesothe.com">Bsky</a> | <a href="https://www.threads.net/@velivian.fesothe">Threads</a> | </b>
+* <b>Social: <a href="https://x.com/Fesothe">X</a> | <a href="https://bsky.app/profile/fesothe.com">Bsky</a> | <a href="https://www.threads.net/@velivian.fesothe">Threads</a> | <a href="https://dev.to/fesothe">Dev to</a> | </b>
 
 <hr style="border: none; border-top: 1px solid grey;">
 
