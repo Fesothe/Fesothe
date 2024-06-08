@@ -27,7 +27,20 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/steam-8b0000?&amp;style=for-the-badge&amp;logo=steam&amp;logoColor=white"></a>
 </p>
 &nbsp;
+
+<!-- Social badges section -->
+<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
+<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
+<p align="center">
+  <a href="https://www.youtube.com/@Fesothe?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/views/UCGdhAgyQ20TtB50rEGGTRqw?style=for-the-badge&logoColor=white&label=Subscribe&link=https%3A%2F%2Fwww.youtube.com%2Fc%2FFesothe%3Fsub_confirmation%3D1&color=red&amp;labelColor=ce4630p&logo=youtube"/></a>
+  <a href="https://www.youtube.com/@Fesothe">
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCGdhAgyQ20TtB50rEGGTRqw?style=for-the-badge&color=red&amp;labelColor=ce4630p&logo=youtube"/></a> 
+  <a href="https://github.com/Fesothe?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Fesothe?&labelColor=ffffffba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 <!-- [END BADGES] -->
+&nbsp;
 
 <p>And I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing code, micros, games and programs to support them.</p>
 
