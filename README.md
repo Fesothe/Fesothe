@@ -42,7 +42,9 @@
 
 <p align="center" dir="auto"><img src="https://github-readme-streak-stats.herokuapp.com?user=fesothe&theme=shadow_red&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000&card_height=250" alt="GitHub Streak" /></p>
 
-<p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesothe&layout=compact&theme=shadow_red&count_private=true&card_width=1000&card_height=250" alt="GitHub Streak" /></p>                                     
+<p align="center" dir="auto"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Fesothe&bg_color=FFFFFF&color=888888&line=F85D7F&point=888888&hide_border=false" alt="GitHub Graph" /></p>
+
+<p align="center" dir="auto"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fesothe&layout=compact&theme=shadow_red&count_private=true&card_width=1000&card_height=250" alt="GitHub Stats" /></p>                                     
 
 * <b><a href="https://github.com/Furtainment">Furtainment</a></b> - <b> is my entertainment business.</b>
 
