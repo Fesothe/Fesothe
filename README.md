@@ -6,7 +6,7 @@
 ![Fesothe Header Logo.](https://cdn.furrys.org/github/fesothe/images/fesothe_github_1500x410.png)
 
 <h3><p align="center">
-  I'm currently a developer at <a href="https://github.com/SnackFerret">SnackFerret Studio</a>
+  I'm currently an indie developer at <a href="https://github.com/SnackFerret">SnackFerret Studio</a>
 </p></h3>&nbsp;
 
 <!-- [START BADGES] -->
