@@ -52,6 +52,9 @@
 </ul>
 
 <p align="center" dir="auto">
+<a href="https://app.daily.dev/fesothe"><img src="https://api.daily.dev/devcards/v2/G2NpV6ZiNeS1IFnmnDdog.png?r=a2q&type=wide" width="652" alt="Jonathan Curley's Dev Card"/></a></p>
+
+<p align="center" dir="auto">
 <img src="https://github-readme-stats.vercel.app/api?username=fesothe&show_icons=true&theme=shadow_red&title_color=808080&text_color=808080&icon_color=8b0000&card_height=250&card_width=1000px" alt="GitHub Stats" /></p>
 
 <p align="center" dir="auto"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fesothe&theme=shadow_red&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000&card_height=250" alt="GitHub Streak" /></p>
