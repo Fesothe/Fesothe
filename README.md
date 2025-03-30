@@ -47,7 +47,8 @@
 <ul>
   <li>🚧 I’m currently working on website templates</li>
   <li>☕ How to reach me: Tweet to <a href="https://twitter.com/intent/tweet?screen_name=Fesothe&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">@Fesothe</a></li>
-  <li>💼 Connect with me: On LinkedIn <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=velivian-fesothe">@Velivian-Fesothe</a></li>
+  <li>💼 Connect with me: On LinkedIn <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=velivian-fesothe">@Velivian-Fesothe</a></li> 
+  <li>💼 Connect with me: On Daily Dev <a href="https://app.daily.dev/fesothe">@Fesothe</a></li>
 </ul>
 
 <p align="center" dir="auto">
