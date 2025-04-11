@@ -65,15 +65,11 @@
 
 * <b><a href="https://github.com/Furtainment">Furtainment</a></b> - <b> is my entertainment business.</b>
 
-<a href="https://github.com/Furtainment">
-  <img src="https://avatars.githubusercontent.com/u/13406567?s=200&v=4" alt="Furtainment Logo" style="width:40px;height:40px;">
-</a>
+![Furtainment Header Logo.](https://cdn.furrys.org/github/furtainment/images/furtainment_github_1500x400.png)
 
 * <b><a href="https://github.com/Furbrained">Furbrained</a></b> - <b> is where I publish personal projects.</b>
 
-<a href="https://github.com/Furbrained">
-  <img src="https://avatars.githubusercontent.com/u/42522398?s=64&v=4" alt="Fesothes Logo" style="width:40px;height:40px;">
-</a>
+![Furbrained Header Logo.](https://cdn.furrys.org/github/furbrained/images/furbrained_github_1500x400.png)
 
 <b>Connect with me:</b>
 
