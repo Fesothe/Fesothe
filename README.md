@@ -65,11 +65,11 @@
 
 * <b><a href="https://github.com/Furtainment">Furtainment</a></b> - <b> is my entertainment business.</b>
 
-![Furtainment Header Logo.](https://cdn.furrys.org/github/furtainment/images/furtainment_github_1500x400.png)
+[![Furtainment Header Logo.](https://cdn.furrys.org/github/furtainment/images/furtainment_github_1500x400.png)](https://github.com/Furtainment)
 
 * <b><a href="https://github.com/Furbrained">Furbrained</a></b> - <b> is where I publish personal projects.</b>
 
-![Furbrained Header Logo.](https://cdn.furrys.org/github/furbrained/images/furbrained_github_1500x400.png)
+[![Furbrained Header Logo.](https://cdn.furrys.org/github/furbrained/images/furbrained_github_1500x400.png)](https://github.com/Furbrained)
 
 <b>Connect with me:</b>
 
