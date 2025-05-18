@@ -86,3 +86,5 @@ Check out my latest blog posts.
   <li><a href="https://www.kewllab.com/2023/02/purchasing-parts-for-robotics.html">KewlLab - Purchasing Parts for Animatronics & Robotics at FurShows</a> - February 20, 2023</li>
   <li><a href="https://www.kewllab.com/2023/01/designing-a-3d-printed-stage-for-furshows.html">KewlLab - Designing A 3D Printed Stage for FurShows</a> - January 25, 2023</li>
 </ul>
+
+![](https://komarev.com/ghpvc/?username=fesothe&color=red)
