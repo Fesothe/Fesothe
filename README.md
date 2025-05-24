@@ -76,6 +76,10 @@
 
 * <b>Social: <a href="https://x.com/Fesothe">X</a> | <a href="https://bsky.app/profile/fesothe.com">Bsky</a> | <a href="https://www.threads.net/@velivian.fesothe">Threads</a> | <a href="https://dev.to/fesothe">Dev to</a> | </b>
 
+<b>View my Art:</b>
+
+* <b>Social: <a href="https://www.deviantart.com/fesothe">Deviant</a> | <a href="https://pixiv.me/fesothe">Pixiv</a> </b>
+
 <hr style="border: none; border-top: 1px solid grey;">
 
 <b>Blog</b>
