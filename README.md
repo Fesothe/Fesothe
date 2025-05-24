@@ -78,7 +78,7 @@
 
 <b>View my Art:</b>
 
-* <b>Social: <a href="https://www.deviantart.com/fesothe">Deviant</a> | <a href="https://pixiv.me/fesothe">Pixiv</a> </b>
+* <b>Social: <a href="https://www.deviantart.com/fesothe">Deviant</a> | <a href="https://pixiv.me/fesothe">Pixiv</a> | </b>
 
 <hr style="border: none; border-top: 1px solid grey;">
 
