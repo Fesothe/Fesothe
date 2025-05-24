@@ -78,7 +78,7 @@
 
 <b>View my Art:</b>
 
-* <b>Art: <a href="https://www.deviantart.com/fesothe">Deviant</a> | <a href="https://pixiv.me/fesothe">Pixiv</a> | </b>
+* <b>Art: <a href="https://www.deviantart.com/fesothe">Deviant</a> | <a href="https://pixiv.me/fesothe">Pixiv</a> | <a href="https://inkbunny.net/Fesothe">Inkbunny</a> | </b>
 
 <hr style="border: none; border-top: 1px solid grey;">
 
