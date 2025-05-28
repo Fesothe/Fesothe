@@ -42,7 +42,7 @@
 <!-- [END BADGES] -->
 &nbsp;
 
-<p>And I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing code, micros, games and programs to support them.</p>
+<p>And I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing websites, code, micros, games and programs to support them.</p>
 
 <ul>
   <li>🚧 I’m currently working on website templates</li>
