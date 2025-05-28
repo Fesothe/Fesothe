@@ -72,6 +72,10 @@
 
 [![Furbrained Header Logo.](https://cdn.furrys.org/github/furbrained/images/furbrained_github_1500x400.png)](https://github.com/Furbrained)
 
+* <b><a href="https://github.com/FossaLabs">FossaLabs</a></b> - <b> is where I publish educational projects.</b>
+
+[![FossaLabs Header Logo.](https://cdn.furrys.org/github/fossalabs/images/fossalabs_github_1500x400.webp)](https://github.com/FossaLabs)
+
 <b>Connect with me:</b>
 
 * <b>Social: <a href="https://x.com/Fesothe">X</a> | <a href="https://bsky.app/profile/fesothe.com">Bsky</a> | <a href="https://www.threads.net/@velivian.fesothe">Threads</a> | <a href="https://dev.to/fesothe">Dev to</a> | </b>
