@@ -44,7 +44,7 @@
 
 <p>And I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing websites, code, micros, games and programs to support them.</p>
 
-<p>I do not wish to "tokenize" my git repositories</p>
+<p>I do not wish to "tokenize" my git repositories.</p>
 
 <ul>
   <li>🚧 I’m currently working on website templates</li>
