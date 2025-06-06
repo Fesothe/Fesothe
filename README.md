@@ -44,6 +44,8 @@
 
 <p>And I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing websites, code, micros, games and programs to support them.</p>
 
+<p>I do not wish to "tokenize" my git repositories</p>
+
 <ul>
   <li>🚧 I’m currently working on website templates</li>
   <li>☕ How to reach me: Tweet to <a href="https://x.com/intent/tweet?screen_name=Fesothe&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">@Fesothe</a></li>
