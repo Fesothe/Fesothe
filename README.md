@@ -46,6 +46,8 @@
 
 <p>I do not wish to "tokenize" my git repositories.</p>
 
+[![Techdeck.](https://cdn.furrys.org/github/fesothe/images/techdeck.png)](https://techdeck.life/profiles/fesothe)
+
 <ul>
   <li>🚧 I’m currently working on website templates</li>
   <li>☕ How to reach me: Tweet to <a href="https://x.com/intent/tweet?screen_name=Fesothe&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">@Fesothe</a></li>
