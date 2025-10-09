@@ -61,7 +61,7 @@
 <p align="center" dir="auto">
 <img src="https://github-readme-stats.vercel.app/api?username=Fesothe&show_icons=true&theme=shadow_red&title_color=808080&text_color=808080&icon_color=8b0000&card_height=250&card_width=1000px" alt="GitHub Stats" /></p>
 
-<p align="center" dir="auto"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fesothe&theme=shadow_red&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000&card_height=250&type=png" alt="GitHub Streak" /></p>
+<p align="center" dir="auto"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Fesothe&theme=shadow_red&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=1000&card_height=250" alt="GitHub Streak" /></p>
 
 <p align="center" dir="auto"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=Fesothe&bg_color=FFFFFF&color=888888&line=F85D7F&point=888888&hide_border=false" alt="GitHub Graph" /></p>
 
