@@ -87,6 +87,10 @@
 
 * <b>Art: <a href="https://www.deviantart.com/fesothe">Deviant</a> | <a href="https://pixiv.me/fesothe">Pixiv</a> | <a href="https://inkbunny.net/Fesothe">Inkbunny</a> | </b>
 
+<b>View my Education:</b>
+
+* <b>Education: <a href="https://jonathancurley.prof">Professor</a> | <a href="https://fossalabs.com">FossaLabs</a> | <a href="https://fossalab.org.uk">FossaLab</a> | </b>
+
 <hr style="border: none; border-top: 1px solid grey;">
 
 <b>Blog</b>
