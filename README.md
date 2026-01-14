@@ -93,4 +93,8 @@ Check out my latest blog posts.
   <li><a href="https://www.kewllab.com/2023/01/designing-a-3d-printed-stage-for-furshows.html">KewlLab - Designing A 3D Printed Stage for FurShows</a> - January 25, 2023</li>
 </ul>
 
+<b>My Fan Service:</b>
+
+* <b><a href="https://bokunofanservice.com/dispatches/">Dispatches</a> | <a href="https://bokunofanservice.com/recordings/">Recordings</a></b>
+
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
