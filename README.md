@@ -42,7 +42,11 @@
 <!-- [END BADGES] -->
 &nbsp;
 
-<p>And I'm the Founder of Furtainment(startup) and other subsidiary organisations I'm setting up, and I'm developing websites, code, micros, games and programs to support them.</p>
+<p>Velivian Fesothe is my artist and furry name, a persona I developed through Second Life to express aspects of who I am, often referred to as a fursona in the furry fandom but my real name is Jonathan Curley.</p>
+
+<p>I'm the Founder of Furtainment(startup) and its subsidiaries I'm setting up and FossaLab Technologies a social enterprise supporting adults, and children with their Tech journeys, I'm developing websites, code, micros, games and programs to support them.</p>
+
+<p>My ambition is to become a Technical Arts Professor and a member of the United Kingdom Parliament, an MP for Bolton with my own legally registered political party called The Furry Party.</p>
 
 <p>I do not wish to "tokenize" my git repositories.</p>
 
