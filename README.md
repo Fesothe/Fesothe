@@ -1,7 +1,7 @@
 <h1><p align="center">Velivian Fesothe</p></h1>
-<h3><p align="center">
-  <b>I'm A Fustachioed Furbrained Oddity!</b>
-</p></h3></br>
+<h2><p align="center"><b>I'm A Fustachioed Furbrained Oddity!</b></p></h2>
+<h2><p align="center"><a href="https://certifiablyfurry.com"><b>#certifiablyfurry</b></a></p></h2><br>
+                                                                        
 
 [![Fesothe Header Logo.](https://cdn.furrys.org/github/fesothe/images/fesothe_github_1500x410.png)](https://fesothe.com)
 
