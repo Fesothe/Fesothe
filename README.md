@@ -46,7 +46,7 @@
 
 <p>I'm the Founder of <a href="https://furtainment.com">Furtainment(startup)</a> and its subsidiaries I'm setting up and <a href="https://fossalab.org.uk">FossaLab Technologies</a> a social enterprise supporting adults, and children with their Tech journeys, I'm developing websites, code, micros, games and programs to support them.</p>
 
-<p>My ambition is to become a Technical Arts <a href="https://jonathancurley.prof">Professor</a> and a member of the United Kingdom Parliament, an <a href="https://uk.furrys.party/administration/jonathan-curley/">Minister of Parliament (MP)</a> for Bolton with my own legally registered political party called <a href="https://the.furrys.party/">The Furry Party</a>.</p>
+<p>My ambition is to become a Technical Arts <a href="https://jonathancurley.prof">Professor</a> and a member of the United Kingdom Parliament, a <a href="https://uk.furrys.party/administration/jonathan-curley/">Minister of Parliament (MP)</a> for Bolton with my own legally registered political party called <a href="https://the.furrys.party/">The Furry Party</a>.</p>
 
 <p>I do not wish to "tokenize" my git repositories.</p>
 
