@@ -50,14 +50,14 @@
 
 <p>I do not wish to "tokenize" my git repositories.</p>
 
-[![Techdeck.](https://cdn.furrys.org/github/fesothe/images/techdeck.png)](https://techdeck.life/profiles/fesothe)
-
 <ul>
   <li>🚧 I’m currently working on website templates</li>
   <li>💼 Connect with me: On LinkedIn <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=velivian-fesothe">@Velivian-Fesothe</a></li> 
   <li>💼 Connect with me: On Daily Dev <a href="https://app.daily.dev/fesothe">@Fesothe</a></li>
   <li>💼 Email me: <a href="mailto:github@fesothe.com">github@fesothe.com</a></li>
 </ul>
+
+[![Techdeck.](https://cdn.furrys.org/github/fesothe/images/techdeck.png)](https://techdeck.life/profiles/fesothe)
 
 <p align="center" dir="auto">
 <a href="https://app.daily.dev/fesothe"><img src="https://api.daily.dev/devcards/v2/G2NpV6ZiNeS1IFnmnDdog.png?r=a2q&type=wide" width="652" alt="Jonathan Curley's Dev Card"/></a></p>
