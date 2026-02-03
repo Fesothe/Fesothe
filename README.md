@@ -66,7 +66,7 @@
 
 [![Furtainment Header Logo.](https://cdn.furrys.org/github/furtainment/images/furtainment_github_1500x400.png)](https://github.com/Furtainment)
 
-* <b><a href="https://github.com/Furbrained">Furbrained</a></b> - <b> is where I publish personal projects.</b>
+* <b><a href="https://github.com/Furbrained">Furbrained</a></b> - <b> is where I and my partner <a href="https://github.com/KilynnTor">KilynnTor</a> publish personal projects.</b>
 
 [![Furbrained Header Logo.](https://cdn.furrys.org/github/furbrained/images/furbrained_github_1500x400.png)](https://github.com/Furbrained)
 
