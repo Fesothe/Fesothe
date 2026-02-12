@@ -86,8 +86,6 @@
 
 * <b>Education: <a href="https://jonathancurley.prof">Aspiring Professor</a> | <a href="https://fossalabs.com">FossaLabs</a> | <a href="https://fossalab.org.uk">FossaLab</a> | </b>
 
-<hr style="border: none; border-top: 1px solid grey;">
-
 <b>View my Mods:</b>
 
 * <b>Mods: <a href="https://www.curseforge.com/members/fesothe/projects">curseforge.com</a></b>
