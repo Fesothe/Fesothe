@@ -88,6 +88,12 @@
 
 <hr style="border: none; border-top: 1px solid grey;">
 
+<b>View my Mods:</b>
+
+* <b>Mods: <a href="https://www.curseforge.com/members/fesothe/projects">curseforge.com</a></b>
+
+<hr style="border: none; border-top: 1px solid grey;">
+
 <b>Blog</b>
 
 Check out my latest blog posts.
