@@ -54,7 +54,7 @@
   <li>🚧 I’m currently working on website templates</li>
   <li>💼 Connect with me: On LinkedIn <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=velivian-fesothe">@Velivian-Fesothe</a></li> 
   <li>💼 Connect with me: On Daily Dev <a href="https://app.daily.dev/fesothe">@Fesothe</a></li>
-  <li>💼 Email me: <a href="mailto:github@fesothe.com">github@fesothe.com</a></li>
+  <li>💼 Email me: <a href="mailto:github@jonathancurley.dev">github@jonathancurley.dev</a></li>
 </ul>
 
 [![Techdeck.](https://cdn.furrys.org/github/fesothe/images/techdeck.png)](https://techdeck.life/profiles/fesothe)
