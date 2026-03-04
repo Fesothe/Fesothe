@@ -48,6 +48,8 @@
 
 <p>My ambition is to become a Technical Arts <a href="https://jonathancurley.prof">Professor</a> and a member of the United Kingdom Parliament, a <a href="https://uk.furrys.party/administration/jonathan-curley/">Minister of Parliament (MP)</a> for Bolton with my own legally registered political party called <a href="https://the.furrys.party/">The Furry Party</a>.</p>
 
+<a href="https://fesothe.com/mission-statements.txt">Mission Statements</a>
+
 <p>I do not wish to "tokenize" my git repositories.</p>
 
 <ul>
