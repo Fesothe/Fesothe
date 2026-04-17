@@ -59,7 +59,7 @@
   <li>💼 Email me: <a href="mailto:github@jonathancurley.dev">github@jonathancurley.dev</a></li>
 </ul>
 
-[![Techdeck.](https://cdn.furrys.org/github/fesothe/images/techdeck.png)](https://techdeck.life/profiles/fesothe)
+[![Techdeck.](https://cdn.furrys.org/github/fesothe/images/techdeck.png)](https://github.com/Fesothe/TechDeck)
 
 <p align="center" dir="auto">
 <a href="https://app.daily.dev/fesothe"><img src="https://api.daily.dev/devcards/v2/G2NpV6ZiNeS1IFnmnDdog.png?r=a2q&type=wide" width="652" alt="Jonathan Curley's Dev Card"/></a></p>
