@@ -86,7 +86,7 @@
 
 <b>View my Education:</b>
 
-* <b>Education: <a href="https://jonathancurley.prof">Aspiring Professor</a> | <a href="https://fossalabs.com">FossaLabs</a> | <a href="https://fossalab.org.uk">FossaLab</a> | <a href="https://technicalart.org">Technical Art</a> | <a href="https://jonathancurley.university">University</a> |/b>
+* <b>Education: <a href="https://jonathancurley.prof">Aspiring Professor</a> | <a href="https://fossalabs.com">FossaLabs</a> | <a href="https://fossalab.org.uk">FossaLab</a> | <a href="https://technicalart.org">Technical Art</a> | <a href="https://jonathancurley.university">University</a> | </b>
 
 <b>View my Mods:</b>
 
