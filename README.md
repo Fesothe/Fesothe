@@ -94,10 +94,10 @@
 
 <b>View my Archives:</b>
 
-<hr style="border: none; border-top: 1px solid grey;">
-
 * <b>archive.org: <a href="https://archive.org/details/@velivian_fesothe">https://archive.org/details/@velivian_fesothe</a></b>
 * <b>fesothe.com: <a href="https://fesothe.com/archive/">https://fesothe.com/archive/</a></b>
+
+<hr style="border: none; border-top: 1px solid grey;">
 
 <b>Blog</b>
 
