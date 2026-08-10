@@ -105,7 +105,7 @@ Check out my latest blog posts.
 
 <b><a href="https://github.com/Fesothe/Blog/">https://github.com/Fesothe/Blog/</a>
 
-<b><a href="https://www.isitagenticready.com">https://www.isitagenticready.com</a>
+<b><a href="https://isitagenticready.com">https://www.isitagenticready.com</a>
 
 <ul>
   <li><a href="https://www.kewllab.com/2023/02/purchasing-parts-for-robotics.html">KewlLab - Purchasing Parts for Animatronics & Robotics at FurShows</a> - February 20, 2023</li>
@@ -114,6 +114,6 @@ Check out my latest blog posts.
 
 <b>My Fan Service:</b>
 
-* <b><a href="https://www.bokunofanservice.com">Boku No Fanservice</a> | <a href="https://www.bokunofanservice.com/search/label/Dispatches?&max-results=5">Dispatches</a> | <a href="https://www.bokunofanservice.com/search/label/Recordings?&max-results=5">Recordings</a></b> |
+* <b><a href="https://bokunofanservice.com">Boku No Fanservice</a> | <a href="https://bokunofanservice.com/blog/dispatches/">Dispatches</a> | <a href="https://bokunofanservice.com/blog/recordings/">Recordings</a></b> |
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
