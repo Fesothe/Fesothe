@@ -105,7 +105,7 @@ Check out my latest blog posts.
 
 <b><a href="https://github.com/Fesothe/Blog/">https://github.com/Fesothe/Blog/</a>
 
-<b><a href="https://isitagenticready.com">https://www.isitagenticready.com</a>
+<b><a href="https://isitagenticready.com">https://isitagenticready.com</a>
 
 <ul>
   <li><a href="https://www.kewllab.com/2023/02/purchasing-parts-for-robotics.html">KewlLab - Purchasing Parts for Animatronics & Robotics at FurShows</a> - February 20, 2023</li>
