@@ -28,20 +28,6 @@
 </p>
 &nbsp;
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://www.youtube.com/@Fesothe?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/views/UCGdhAgyQ20TtB50rEGGTRqw?style=for-the-badge&logoColor=white&label=Subscribe&link=https%3A%2F%2Fwww.youtube.com%2Fc%2FFesothe%3Fsub_confirmation%3D1&color=red&amp;labelColor=ce4630p&logo=youtube"/></a>
-  <a href="https://www.youtube.com/@Fesothe">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UCGdhAgyQ20TtB50rEGGTRqw?style=for-the-badge&color=red&amp;labelColor=ce4630p&logo=youtube"/></a> 
-  <a href="https://github.com/Fesothe?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Fesothe?&labelColor=ffffffba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-<!-- [END BADGES] -->
-&nbsp;
-
 <p>Velivian Fesothe known simply as Fesothe is my artist and furry name, a <a href="https://fustachio.com">Ringmaster</a> persona I developed through <a href="https://en.wikipedia.org/wiki/Second_Life">Second Life</a> to express aspects of who I am, often referred to as a <a href="https://en.wikipedia.org/wiki/Fursona">fursona</a> in the <a href="https://en.wikipedia.org/wiki/Furry_fandom">furry fandom</a> but my real name is <a href="https://www.jonathancurley.com">Jonathan Curley</a>. Fesothe is a play on the <a href="https://en.wikipedia.org/wiki/Archaic">archaic</a> English word <a href="https://en.wiktionary.org/wiki/forsooth">"forsooth"</a> that echoes the Old English root <a href="https://en.wiktionary.org/wiki/sōþ">sōþ</a>, meaning truth, found in words like <a href="https://en.wikipedia.org/wiki/Sooth">sooth</a> and <a href="https://en.wikipedia.org/wiki/Soothsayer">soothsayer</a>.</p>
 
 <p>I'm the Founder of <a href="https://furtainment.com">Furtainment(startup)</a> and its subsidiaries I'm setting up and <a href="https://fossalab.org.uk">FossaLab Technologies</a> a social enterprise supporting adults, and children with their Tech journeys, I'm developing websites, code, micros, games and programs to support them.</p>
