@@ -102,6 +102,6 @@ Check out my latest blog posts.
 
 <b>My Fan Service:</b>
 
-* <b><a href="https://bokunofanservice.com">Boku No Fanservice</a> | <a href="https://bokunofanservice.com/blog/dispatches/">Dispatches</a> | <a href="https://bokunofanservice.com/blog/recordings/">Recordings</a></b> |
+* <b><a href="https://bokunofanservice.com/blog/">Boku No Fanservice - Dispatches Journal</a> | <a href="https://bokunofanservice.com/blog/category/dispatches/">Dispatches</a> | <a href="https://bokunofanservice.com/blog/category/recordings/">Recordings</a></b> |
 
 ![](https://komarev.com/ghpvc/?username=fesothe&color=red)
