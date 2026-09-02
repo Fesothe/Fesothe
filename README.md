@@ -93,6 +93,8 @@ Check out my latest blog posts.
 * <b><a href="https://isitagenticready.com">https://isitagenticready.com</a>
 * <b><a href="https://isitgameready.com">https://isitgameready.com</a>
 
+<b>KewlLab:</b>
+
 <ul>
   <li><a href="https://www.kewllab.com/2023/02/purchasing-parts-for-robotics.html">KewlLab - Purchasing Parts for Animatronics & Robotics at FurShows</a> - February 20, 2023</li>
   <li><a href="https://www.kewllab.com/2023/01/designing-a-3d-printed-stage-for-furshows.html">KewlLab - Designing A 3D Printed Stage for FurShows</a> - January 25, 2023</li>
