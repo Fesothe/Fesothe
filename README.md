@@ -85,7 +85,7 @@
 
 <hr style="border: none; border-top: 1px solid grey;">
 
-<b>Blogs</b>
+<b>Blogs:</b>
 
 Check out my latest blog posts.
 
