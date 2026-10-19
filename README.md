@@ -93,7 +93,8 @@ Check out my latest blog posts.
 * <b><a href="https://isitagenticready.com">https://isitagenticready.com</a>
 * <b><a href="https://isitgameready.com">https://isitgameready.com</a>
 * <b><a href="https://isitvirtualready.com">https://isitvirtualready.com</a>
-
+* <b><a href="https://survivethefandom.com">https://survivethefandom.com</a>
+* 
 <b>KewlLab:</b>
 
 <ul>
