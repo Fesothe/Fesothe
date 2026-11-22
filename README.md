@@ -68,7 +68,7 @@
 
 <b>View my Art:</b>
 
-* <b>Art: <a href="https://www.deviantart.com/fesothe">Deviant</a> | <a href="https://pixiv.me/fesothe">Pixiv</a> | <a href="https://inkbunny.net/Fesothe">Inkbunny</a> | <a href="https://furmunity.com/fesothe">Furmunity.com</a> </b>
+* <b>Art: <a href="https://www.deviantart.com/fesothe">Deviant</a> | <a href="https://pixiv.me/fesothe">Pixiv</a> | <a href="https://inkbunny.net/Fesothe">Inkbunny</a> | <a href="https://furmunity.com/fesothe">Furmunity</a></b>
 
 <b>View my Education:</b>
 
